@@ -1,6 +1,6 @@
 student = {}
 
-student["name"] = input("Enter yuor name: ")
+student["name"] = input("Enter your name: ")
 student["age"] = input("Enter your age: ")
 student["subject"] = input("Enter your favorite subject: ")
 
